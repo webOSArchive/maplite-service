@@ -11,9 +11,9 @@
 ?>
 <?php
   //App Details
-  $title = "webOS Maps";
+  $title = "Retro Maps";
   $subtitle = "";
-  $description = "Simplified maps for legacy devices.";
+  $description = "Lightweight maps for retro devices.";
   $github = "https://github.com/webosarchive/maplite-service";
   $museumLink = "https://appcatalog.webosarchive.org/app/MapLite";
   $icon = "icon.png";
