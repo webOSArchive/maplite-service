@@ -78,7 +78,7 @@ echo file_get_contents("https://www.webosarchive.org/menu.php?docRoot=" . $docRo
   <div id="row">
     <div id="content" align="left">
       <h1><img src="<?php echo $icon;?>" width="60" height="60" alt=""/><?php echo $title; ?></h1>
-      <p><?php echo $description; ?></p>
+      <p><b><?php echo $description; ?></b></p>
       <p>A Project of webOS Archive. Location provided by <a href='https://ipinfo.io'>IPInfo</a>, Maps provided by <a href='https://docs.microsoft.com/en-us/bingmaps/articles/accessing-the-bing-maps-rest-services-using-php'>Bing</a>.
       <p>Host your own maps, or contribute on <a href="<?php echo $github;?>">GitHub.</a></p>
       <form method="post">
