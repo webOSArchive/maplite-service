@@ -117,7 +117,7 @@ echo file_get_contents("https://www.webosarchive.org/menu.php?docRoot=" . $docRo
       <p class="center">
         <?php if (isset($museumLink)) { ?>
         <a class="download-link" href="<?php echo $museumLink; ?>">
-          <img src="<?php echo $PROTOCOL . "://www.webosarchive.org/app-template/"?>museum-badge.png" width="200" height="59" alt="Get it on Google play" />
+          <img src="<?php echo $PROTOCOL . "://www.webosarchive.org/app-template/"?>museum-badge.png" width="200" height="59" alt="Find it in the App Museum" />
         </a>
         <?php } ?>
       </p>
