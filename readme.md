@@ -1,6 +1,10 @@
 # Overview
 
-A PHP service, leveraging Bing Maps and IPInfo.org to provide a podcast directory, and a proxy service, for retro devices that are capable of displaying images, but may not be able to get a geofix, load tiles or render vectors.
+A PHP service, leveraging Bing Maps and IPInfo.org to provide a maps service and proxy for retro devices that are capable of displaying images, but may not be able to get a geofix, load tiles or render vectors.
+
+# Archival
+
+In 2024, the Bing Maps API changed and this service no longer functions. Since webOS can't handle vector-based maps, which most APIs have migrated to, there doesn't seem to be a way to deliver this service any longer.
 
 # Requirements
 
